@@ -1,3 +1,3 @@
 package message
 
-const Message = "Hello, v0.2.0"
+const Message = "Hello, v0.3.0"
